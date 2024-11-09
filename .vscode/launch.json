@@ -1,0 +1,51 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "water_usage_calculator",
+            "request": "launch",
+            "mainClass": "water_usage_calculator",
+            "projectName": "Water_Usage_Calculator_b01df03a"
+        },
+        {
+            "type": "java",
+            "name": "WaterUsageApp",
+            "request": "launch",
+            "mainClass": "WaterUsageApp",
+            "projectName": "MYAPP_e0fe3d43"
+        },
+        {
+            "type": "java",
+            "name": "LoginApp",
+            "request": "launch",
+            "mainClass": "LoginApp",
+            "projectName": "MYAPP_e0fe3d43"
+        },
+        {
+            "type": "java",
+            "name": "app",
+            "request": "launch",
+            "mainClass": "src.app",
+            "projectName": "MYAPP_e0fe3d43"
+        },
+        {
+            "type": "java",
+            "name": "CommunityWaterUsageTracker",
+            "request": "launch",
+            "mainClass": "CommunityWaterUsageTracker",
+            "projectName": "MYAPP_e0fe3d43"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "app",
+            "vmArgs": "--module-path lib/ --add-modules javafx.controls",
+            "args": ""
+        }
+    ]
+}
